@@ -1,0 +1,65 @@
+baseURL: "https://sanjeevr5.github.io/sanjeevr5"
+languageCode: "en-us"
+title: "Sanjeev Ram"
+theme:
+  - PaperMod
+
+pagination:
+  pagerSize: 4
+  disableAliases: false
+  path: "page"
+
+params:
+  defaultTheme: auto
+  showReadingTime: true
+  showShareButtons: true
+  showPostNavLinks: true
+  showBreadCrumbs: true
+  showTOC: true
+
+  # home‑info (optional)
+  homeInfoParams:
+    title: "I post about AI and Azure CP"
+    content: "I am sure it is interesting"
+
+  # Profile‑mode configuration (must be under params)
+  profileMode:
+    enabled: true
+    title: "I post about AI and Azure CP"
+    subtitle: "I am sure it is interesting"
+    imageUrl: "token_gpt4.png"
+    imageTitle: "Profile Photo"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: "Blog"
+        url: "/posts/"
+      - name: "About"
+        url: "/about/"
+
+  # Social media icons
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/sanjeevr5"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/sanjeevram"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Posts"
+      url: "/posts/"
+      weight: 2
+    - name: "About"
+      url: "/about/"
+      weight: 3
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
