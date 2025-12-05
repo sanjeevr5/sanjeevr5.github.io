@@ -9,6 +9,10 @@ pagination:
   disableAliases: false
   path: "page"
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   defaultTheme: auto
   showReadingTime: true
