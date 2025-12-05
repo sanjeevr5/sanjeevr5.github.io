@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://sanjeevr5.github.io/sanjeevr5/sitemap.xml
+Sitemap: https://sanjeevr5.github.io/sanjeevr5.github.io/sitemap.xml

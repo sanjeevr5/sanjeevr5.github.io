@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sanjeev Ram</title>
-    <link>https://sanjeevr5.github.io/sanjeevr5/</link>
+    <link>https://sanjeevr5.github.io/sanjeevr5.github.io/</link>
     <description>Recent content on Sanjeev Ram</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Dec 2025 10:56:55 +0530</lastBuildDate>
-    <atom:link href="https://sanjeevr5.github.io/sanjeevr5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sanjeevr5.github.io/sanjeevr5.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://sanjeevr5.github.io/sanjeevr5/posts/first-post/</link>
+      <link>https://sanjeevr5.github.io/sanjeevr5.github.io/posts/first-post/</link>
       <pubDate>Fri, 05 Dec 2025 10:56:55 +0530</pubDate>
-      <guid>https://sanjeevr5.github.io/sanjeevr5/posts/first-post/</guid>
+      <guid>https://sanjeevr5.github.io/sanjeevr5.github.io/posts/first-post/</guid>
       <description>&lt;h1 id=&#34;hi&#34;&gt;Hi&lt;/h1&gt;
 &lt;h2 id=&#34;hello&#34;&gt;Hello&lt;/h2&gt;</description>
     </item>
